@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My First Webpage</title>
+</head>
+<body>
+    <h1>Reading</h1>
+    <h2>Coding</h2>
+    <h3>Traveling</h3>
+    <h4>Photography</h4>
+    <h5>Gaming</h5>
+    <h6>Sleeping</h6>
+
+    <p>My name is Bilyaminu Ahmad. I am passionate about technology and always eager to learn new things. I enjoy spending my time exploring different hobbies and improving my skills.</p>
+    <p>In class, I learned how to structure a simple HTML webpage.I also learned how to insert a domi text (Lorem) to insert a simple paragraph while (Lorem1, lorem2, lorem10, lorem30 etc) will insert a text word by word based on the specified number,
+       I now understand how to use headings, paragraphs, and images to create an engaging web page.</p>
+
+    <img src="myphoto.jpg" alt="A picture of me">
+    
+    <img src="https://www.picpedia.org/highway-signs/images/example.jpg" alt="internet image">
+    
+    <h2>About Me</h2>
+    <p>I am an aspiring web developer who loves creating simple and interactive web pages. My goal is to master Back-end development.</p>
+    <img src="./myphoto.jpg" alt="A picture of me">
+
+    <h2>My Favorite Things</h2>
+    
+    <h3>Books</h3>
+    <p>I love reading books, especially fiction and self-improvement books. They help me grow and expand my knowledge.</p>
+    <img src="books.jpg" alt="A stack of books">
+    
+    <h3>Technology</h3>
+    <p>Technology fascinates me! I enjoy coding, exploring new tools, and staying updated with the latest trends.</p>
+    <img src="tech.jpg" alt="A laptop and gadgets">
+    
+    <h3>Travel</h3>
+    <p>Traveling allows me to experience new cultures and meet amazing people. I love exploring new places.</p>
+    <img src="travel.jpg" alt="A scenic travel destination">
+</body>
+</html>
